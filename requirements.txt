@@ -3,7 +3,7 @@ langchain-openai>=0.2.14
 langchain>=0.3.23
 langchain-fireworks>=0.2.9
 python-dotenv>=1.0.1
-langchain-community>=0.3.21
+langchain-community>=0.4.2
 mcp==1.6.0
 traceloop-sdk>=0.39.4
 opentelemetry-instrumentation-mcp
