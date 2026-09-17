@@ -2,7 +2,7 @@ langgraph>=0.3.27
 langchain-openai>=0.2.14
 langchain>=0.3.23
 langchain-fireworks>=0.2.9
-python-dotenv>=1.0.1
+python-dotenv>=1.2.3
 langchain-community>=0.3.21
 mcp==1.28.1
 traceloop-sdk>=0.39.4
