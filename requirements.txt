@@ -1,6 +1,6 @@
 langgraph>=0.3.27
 langchain-openai>=0.2.14
-langchain>=0.3.23
+langchain>=1.4.0
 langchain-fireworks>=0.2.9
 python-dotenv>=1.0.1
 langchain-community>=0.3.21
